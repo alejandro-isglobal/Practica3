@@ -14,6 +14,13 @@ comandos:
 
 - <code>sample()</code>
 - <code>plot()</code>
+- <code>points()</code>
+- <code>lines()</code>
+- <code>function()</code>
+- <code>sapply()</code>
+- <code>dbinom()</code>
+- <code>pbinom()</code>
+- <code>qbinom()</code>
 
 
 [Pregunta 1](Pregunta1.png)
@@ -50,11 +57,11 @@ Supongamos que una tienda de comestibles compra cada día 5 botellas de leche de
 | F(6)| respuesta|
 
 
-- ¿Cuál es el valor esperado del número de botellas vendidas por día? 46/15
+- ¿Cuál es el valor esperado del número de botellas vendidas por día?
 
-- ¿Cuál es la mediana del número de botellas vendidas por día? [2,3)
+- ¿Cuál es la mediana del número de botellas vendidas por día? 
 
-- ¿Cuál es la varianza del número de botellas vendidas por día? 2.329
+- ¿Cuál es la varianza del número de botellas vendidas por día? 
 
 - Realiza 30 simulaciones del número de botellas de leche vendidas por día. (Utiliza como semilla el número 12)
 
